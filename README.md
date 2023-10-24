@@ -1,4 +1,9 @@
 ### Moin
+As an electrical engineer, I enjoy tinkering with electrical parts. I have enjoyed programming in Python for several years.
+
+### my plan
+In order to learn Mircopython and to do this on a specific project, I am retrofitting my Gaggia Classic. As a base I use the wonderful work of Zer0-bit, but with a Pi Zero.
+
 
 <!--
 **Rovagoo1/Rovagoo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
