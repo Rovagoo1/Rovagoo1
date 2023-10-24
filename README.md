@@ -1,4 +1,4 @@
-### Moin
+### moin
 As an electrical engineer, I enjoy tinkering with electrical parts. I have enjoyed programming in Python for several years.
 
 ### my plan
