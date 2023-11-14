@@ -1,5 +1,6 @@
 ### moin
 As an electrical engineer ⚡, I enjoy tinkering with electrical parts. I have enjoyed programming in Python for several years.
+I'm aiming to enhance my software expertise while shifting my mindset towards embracing Agile software development practices and embracing Test-Driven Development (TDD).
 
 ### my plan
 In order to learn Mircopython and to do this on a specific project, I am retrofitting my espresso machine Gaggia Classic (☕😊). As a base I use the wonderful work of Zer0-bit, but with a Pi Zero.
