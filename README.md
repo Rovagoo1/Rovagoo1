@@ -1,6 +1,6 @@
 ### moin
 As an electrical engineer ⚡, I enjoy tinkering with electrical parts. I have enjoyed programming in Python for several years.
-My goal is to simultaneously expand my software knowledge and change my mindset towards agile software development practices using the three test force approaches TDD, ATDD and BDD.
+My goal is to simultaneously expand my software knowledge and change my mindset towards agile software development practices using the three test first approaches TDD, ATDD and BDD.
 
 ### my plan
 In order to learn Mircopython and to do this on a specific project, I am retrofitting my espresso machine Gaggia Classic (☕😊). As a base I use the wonderful work of Zer0-bit, but with a Pi Zero.
